@@ -1,0 +1,4 @@
+baseURL = 'https://holz1gst.github.io/'
+languageCode = 'en-us'
+title = 'My Newly Changed Hugo Site'
+theme = 'ananke'
